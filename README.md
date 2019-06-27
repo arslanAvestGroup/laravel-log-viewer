@@ -25,7 +25,6 @@ Install (Laravel)
 Install via composer
 ```
 composer require rap2hpoutre/laravel-log-viewer
-```
 composer require arslanAvestGroup/laravel-log-viewer
 ```
 
